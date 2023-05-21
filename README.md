@@ -28,6 +28,19 @@ To get started with the code, please follow these instructions:
 
 ## Results
 
+<table>
+    <tr>
+        <td align = "center"> <img src="./results/path_1.mp4"></td>
+        <td align = "center"> <img src="./results/path_2.mp4"></td>
+        <td align = "center"> <img src="./results/path_3.mp4"></td>
+    </tr>
+    <tr>
+        <td align = "center">Trajectory 1</td>
+        <td align = "center">Trajectory 2</td>
+        <td align = "center">Trajectory 3</td>
+    </tr>
+</table>
+
 ## Contributing
 
 Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request. We appreciate your involvement in making this project even better.
