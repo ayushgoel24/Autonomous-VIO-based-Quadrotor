@@ -1,0 +1,12 @@
+path:
+    num_pts: 8
+    threshold: 0.5
+    min_path_threshold: 3
+
+time:
+    factor: 3
+    coeff: 1.65
+    clip_lower: 0.25
+
+quadrotor:
+    velocity: 5
