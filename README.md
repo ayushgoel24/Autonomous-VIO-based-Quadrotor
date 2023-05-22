@@ -41,14 +41,6 @@ To get started with the code, please follow these instructions:
     </tr>
 </table>
 
-## Contributing
-
-Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request. We appreciate your involvement in making this project even better.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
-
 ## Acknowledgments
 
 We would like to acknowledge the following resources and references that contributed to the development of this project:
