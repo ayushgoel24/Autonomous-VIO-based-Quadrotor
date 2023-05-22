@@ -30,9 +30,9 @@ To get started with the code, please follow these instructions:
 
 <table>
     <tr>
-        <td align = "center"> <img src="./results/path_1.mp4"></td>
-        <td align = "center"> <img src="./results/path_2.mp4"></td>
-        <td align = "center"> <img src="./results/path_3.mp4"></td>
+        <td align = "center"> <img src="./results/path_1.gif"></td>
+        <td align = "center"> <img src="./results/path_2.gif"></td>
+        <td align = "center"> <img src="./results/path_3.gif"></td>
     </tr>
     <tr>
         <td align = "center">Trajectory 1</td>
