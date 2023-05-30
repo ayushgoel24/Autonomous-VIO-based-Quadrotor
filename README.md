@@ -12,7 +12,7 @@ The goal of this project is to develop a robust control system for a quadrotor, 
 
 1. **Geometric Controller:** A nonlinear geometric controller is implemented to determine the control commands, specifically the thrust and moment, required to track the desired trajectory. A PD controller is employed to calculate the accelerations and moments necessary for reaching a specific position and orientation.
 
-2. **A* Path Planning:** The A* algorithm is utilized to generate an obstacle-free dense set of points from the start position to the goal position. The L2 norm from each node to the goal node serves as the heuristic for the A* algorithm, ensuring efficient path selection.
+2. **A\* Path Planning:** The A* algorithm is utilized to generate an obstacle-free dense set of points from the start position to the goal position. The L2 norm from each node to the goal node serves as the heuristic for the A* algorithm, ensuring efficient path selection.
 
 3. **Ramer-Douglas-Peucker Downsampling:** Once the obstacle-free dense set of points is obtained, the Ramer-Douglas-Peucker downsampling algorithm is applied to identify the optimal number of points required for the path. This process helps reduce computational complexity while maintaining the essential waypoints.
 
