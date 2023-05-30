@@ -1,5 +1,9 @@
 # Autonomous VIO based Quadrotor
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Issues](https://img.shields.io/github/issues/ayushgoel24/Autonomous-VIO-based-Quadrotor.svg)](https://github.com/ayushgoel24/Autonomous-VIO-based-Quadrotor/issues)
+[![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-orange.svg)](https://github.com/ayushgoel24/Autonomous-VIO-based-Quadrotor)
+
 This repository contains code for implementing a nonlinear geometric controller and generating an obstacle-free path for a quadrotor. The project utilizes the A* algorithm for path planning and the minimum-snap trajectory generator for smooth and dynamically feasible trajectory generation.
 
 ## Overview
